@@ -5,13 +5,12 @@ Lista con informacion sobre datasets, organizaciones, proyectos eventos y herram
 
 
 ## Conferencias / Organizaciones
-
  - [Abre Latam](http://www.abrelatam.org)
  - [Ciudadano Inteligente](https://github.com/ciudadanointeligente/)
  - [Opendata Latinoamerica](http://www.opendatalatinoamerica.org/home/)
 
 ## General
-
+ - [Manual de acceso a la informacion publica - via flip.org.co](http://flip.org.co/sites/default/files/archivos_publicacion/Manual%20de%20acceso%20a%20la%20informaci%C3%B3n%20web.pdf)
  - [Poderopedia](http://www.poderopedia.org/)
  - [Latin American Open Data Sources: data-plumbing recipes and data-cleaning](https://github.com/spsaaibi/latamdataresources)
  - [Congreso Visible](http://www.congresovisible.org/)
