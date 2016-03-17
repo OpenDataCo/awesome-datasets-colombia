@@ -55,12 +55,15 @@ Lista con informacion sobre datasets, organizaciones, proyectos eventos y herram
  - [OSM varias ciudades de Colombia (Bogota, Cali, Medellin)](https://mapzen.com/data/metro-extracts/)
  - [Humanitarian Open Street Maps](https://data.hdx.rwlabs.org/organization/hot?q=&ext_page_size=25&sort=score+desc%2C+metadata_modified+desc&groups=col#dataset-filter-start)
 
+## Salud
+ - [http://cancer.gov.co/](http://cancer.gov.co/cancer_en_cifras): Datos sobre cancer por localidad 
+ - [Dump datos de cancer.gov.co(1999-2011)](https://github.com/sap0408/opendata-CancerColombia-1999-2011)
+
 
 ## Otros 
   - [sic.gov.co (fuente1)](http://serviciospub.sic.gov.co/~oparra/serv_57/externas/datospatente.php): Patentes Registradas en Colombia
   - [sic.gov.co (fuente2)](http://www.sic.gov.co/drupal/base-de-datos): Patentes Registradas en Colombia
   - [ciudatos.com](http://ciudatos.com/) : Misc. Datos de encuestas de opinion publica por Ciudad.
-  - [http://cancer.gov.co/](http://cancer.gov.co/cancer_en_cifras): Datos sobre cancer por localidad 
 
 
 # Contributors?
